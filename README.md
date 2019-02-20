@@ -1,3 +1,3 @@
-# Libraries required to run the code
-# matplotlib
-# numpy
+### Libraries required to run the code
++ matplotlib
++ numpy
